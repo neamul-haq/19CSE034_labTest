@@ -1,0 +1,14 @@
+.area{
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: 50px auto;
+}
+.con-info{
+  text-align: right;
+  margin-top: 120px ;
+  margin-left: 400px;
+}
+.contact-area{
+  margin-top: 27px;
+}
